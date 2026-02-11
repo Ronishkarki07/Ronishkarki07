@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- A Dynamic Java Quiz Application (Admin + User Panel)  <br>- Java Swing GUI Projects  <br>- Improving my OOP & SOLID principles <br>I'm currently learning software testing and security
+
 
 
 ## 🌐 Socials:
