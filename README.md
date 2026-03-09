@@ -1,6 +1,7 @@
 # About Me:
 
 I'm Ronish Karki an Undergraduate student passionate about technology and coding.
+
 Learning and building projects to improve my skills.
 
 ## 🌐 Socials:
